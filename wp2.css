@@ -1,0 +1,82 @@
+
+
+#heading {
+  position:absolute;
+  left:10%;
+  width:1000px;
+  height:100px;
+}
+#ads {
+  position:absolute;
+  height:500px;
+  left:20%;
+}                  
+.topnav {
+  position:absolute;
+  top:300px;
+  left:20%;
+}
+.navbar {
+  position:absolute;
+  top:300px;
+  left:12%;
+}
+#classified {
+  position:absolute;
+  top:375px;
+  left:42%;
+}
+#health {
+  position:absolute;
+  top:375px;
+  left:5%;     
+}
+#ears {
+  position:absolute;
+  top:375px;
+  right:5%;
+}
+#preciscull {
+  background-color:white;
+  position:absolute; 
+  text-align:left;
+  padding: 5px 5px 5px 5px;
+  top:400px;
+  left:3%;
+  width:300px;
+}
+.cull {
+  position:absolute;
+  left:15%;
+  width:700px;
+  text-indent:10px; 
+  line-height:1.2;
+}
+#precispotty {
+  background-color:white;
+  position:absolute; 
+  text-align:left;
+  padding: 5px 5px 5px 5px;
+  top:400px;
+  left:35%;
+  width:300px;
+}
+#preciswheels {
+  background-color:white; 
+  position:absolute; 
+  text-align:left;
+  padding: 5px 5px 5px 5px;
+  top:400px;
+  left:67%;
+  width:300px;
+  
+}
+.article {
+  position:absolute;
+  top:350px;
+  background-color:white;
+  text-align:left;
+  padding:5px 5px 5px 5px;  
+  left:12%;
+  width:750px;
+}
