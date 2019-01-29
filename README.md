@@ -1,2 +1,2 @@
 # wordpainter
-male causian
+male caucasian
